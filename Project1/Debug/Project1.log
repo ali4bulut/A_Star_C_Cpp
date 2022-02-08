@@ -1,0 +1,4 @@
+﻿  a_star.cpp
+C:\Users\alibl\Desktop\Vs Deneme 2019\Project1\Project1\a_star.cpp(51,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\alibl\Desktop\Vs Deneme 2019\Project1\Project1\a_star.cpp(161,21): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+  Project1.vcxproj -> C:\Users\alibl\Desktop\Vs Deneme 2019\Project1\Debug\Project1.exe
